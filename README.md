@@ -1,15 +1,15 @@
-#UAE Finance Bot
+# UAE Finance Bot
 
 Empowering financial literacy with AI-driven insights from official UAE regulations. Built with Streamlit, LangChain, Pinecone, and Google Gemini.
 
 ---
 
-##Overview
+## Overview
 The **UAE Finance Bot** is a localized Retrieval-Augmented Generation (RAG) application. It ingests official documentation regarding UAE Corporate Tax, VAT, and banking frameworks, converting complex legal jargon into straightforward, easy-to-understand guidance suitable for all age groups.
 
 ---
 
-##Features
+## Features
 * **Context-Aware Answers:** Utilizes semantic search to ground all responses strictly in official ingested source material.
 * **Optimized Data Pipeline:** Features automated document chunking, embeddings generation, and safe batch uploading that respects API rate limits.
 * **Blazing Fast LLM:** Powered by `gemini-2.5-flash` for rapid conversational responsiveness and high-quality synthesis.
@@ -18,7 +18,7 @@ The **UAE Finance Bot** is a localized Retrieval-Augmented Generation (RAG) appl
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 | Component | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ The **UAE Finance Bot** is a localized Retrieval-Augmented Generation (RAG) appl
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```text
 ├── data/
