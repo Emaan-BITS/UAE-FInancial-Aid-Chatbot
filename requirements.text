@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-pinecone
+langchain-community
+langchain
+streamlit-mic-recorder
+pypdf
