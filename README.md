@@ -34,7 +34,7 @@ The **UAE Finance Bot** is a localized Retrieval-Augmented Generation (RAG) appl
 
 ```text
 ├── data/
-│   └── uae_tax_guide.pdf       # Source regulatory documentation
+│   └── all pdfs      # Source regulatory documentation
 ├── app.py                      # Main Streamlit web application
 ├── ingest.py                   # Document processing and database population script
 ├── .env                        # Environment variables (API Keys)
